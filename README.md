@@ -11,10 +11,12 @@ Used PHP mailer library for sending mail from google smtp.
 
 ### STEP-2
 ---
-### Add your email address as well as password to recieve emails (please add the email where you want to recieve emails for ex. customer queries or something) in "index.php" file.
+#### Add your email address as well as password to recieve emails (please add the email where you want to recieve emails for ex. customer queries or something) in "index.php" file.
 ![code-1](https://user-images.githubusercontent.com/65725023/151662999-fb5d3489-4858-41ef-aca4-a5e394d3c6d7.png)
 
 ### STEP-3
 ---
-wolla yo are done check the form or make a new one and create same script as you want. Your choice afterall <3
+#### wolla yo are done check the form or make a new one and create same script as you want. Your choice afterall <3
+
+
 >Happy Coding <3
