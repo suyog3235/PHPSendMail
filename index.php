@@ -111,8 +111,8 @@ if (isset($_POST['name']) && isset($_POST['email'])) {
   $mail->SMTPAuth = true;
 
   // add your websites email and password (means the email where you want to recieve customer comlaints or queries)here
-  $mail->Username = "add your email address";
-  $mail->Password = 'add password';
+  $mail->Username = "add your email address ehre you want to recieve email";
+  $mail->Password = 'add password of that email';
   // add above
 
   $mail->Port = 465;
