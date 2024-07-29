@@ -16,7 +16,7 @@ Used PHP mailer library for sending mail from google smtp.
 
 ### STEP-3
 ---
-#### wolla yo are done check the form or make a new one and create same script as you want. Your choice afterall <3
+#### wolla you are done check the form or make a new one and create same script as you want. Your choice afterall <3
 
 
 >Happy Coding <3
