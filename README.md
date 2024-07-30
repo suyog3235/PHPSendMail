@@ -1,6 +1,6 @@
 # send mail using PHP.
 
-Used PHP mailer library for sending mail from google smtp.
+Uses PHP mailer library for sending mail from google smtp.
 
 ### STEP-1
 ---
